@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
  <o:MainFile HRef="../Lyrika.htm"/>
  <o:File HRef="themedata.thmx"/>
@@ -9,4 +10,17 @@
  <o:File HRef="image009.jpg"/>
  <o:File HRef="image008.jpg"/>
  <o:File HRef="filelist.xml"/>
+=======
+<xml xmlns:o="urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef="../Lyrika.htm"/>
+ <o:File HRef="themedata.thmx"/>
+ <o:File HRef="colorschememapping.xml"/>
+ <o:File HRef="image001.png"/>
+ <o:File HRef="image006.png"/>
+ <o:File HRef="image003.png"/>
+ <o:File HRef="image007.png"/>
+ <o:File HRef="image009.jpg"/>
+ <o:File HRef="image008.jpg"/>
+ <o:File HRef="filelist.xml"/>
+>>>>>>> origin/main
 </xml>
